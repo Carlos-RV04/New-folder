@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Git practice!" << std::endl;
+    std::cout << "Git practice version 2!" << std::endl;
     return 0;
 }
